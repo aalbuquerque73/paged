@@ -1,0 +1,15 @@
+{
+    "title": "Website Creation",
+    "template": "src/template.html",
+    "dest": "./dist",
+    "files": [
+        {
+            "filename": "index.html",
+            "data": {
+                "title": "Test",
+                "header": "Test",
+                "content": "Hello World"
+            }
+        }
+    ]
+}

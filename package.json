@@ -1,0 +1,13 @@
+{
+  "name": "paged",
+  "version": "1.0.0",
+  "description": "",
+  "main": "paged.js",
+  "type": "module",
+  "scripts": {},
+  "author": "Americo Albuquerque <americo.l.albuquerque@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.7"
+  }
+}
